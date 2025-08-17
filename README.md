@@ -13,6 +13,10 @@ A repository with a list of useful resources for learning more about System Desi
 
 # Videos:
 - [Jordan has no life (YouTube Channel)](https://www.youtube.com/@jordanhasnolife5163)
+- [System Design Fight Club](https://www.youtube.com/@SDFC)
 
 # Whiteboards for Practicing:
 - [Excalidraw](https://excalidraw.com)
+
+# Props 👏🏻
+***Thank you to this reddit thread for the inspo:*** https://www.reddit.com/r/leetcode/comments/1el083l/the_best_way_to_prepare_for_system_design/
