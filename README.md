@@ -1,6 +1,6 @@
 # Useful System Design Resources
 
-A repository with a list of useful books, websites, videos, and articles for learning more about System Design.
+A repository with a list of useful resources for learning more about System Design.
 
 # Books:
   - [System Design Interview: An Insiders Guide by Alex Xu (2nd Edition)](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)
@@ -14,3 +14,5 @@ A repository with a list of useful books, websites, videos, and articles for lea
 # Videos:
 - [Jordan has no life (YouTube Channel)](https://www.youtube.com/@jordanhasnolife5163)
 
+# Whiteboards for Practicing:
+- [Excalidraw](https://excalidraw.com)
