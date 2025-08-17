@@ -2,11 +2,13 @@
 
 A repository with a list of useful books, websites, videos, and articles for learning more about System Design.
 
-# Books
+# Books:
+  - [System Design Interview: An Insiders Guide by Alex Xu (2nd Edition)](https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf)
+  - [Hacking the System Design Interview: Real Big Tech Interview Questions and In-depth Solutions by Stanley Chiang](https://www.amazon.com/Hacking-System-Design-Interview-depth/dp/B0B7QHRK5Q)
 
-# Websites
-
-# Articles
+# Websites, Guides, and Articles:
+- [How to Prepare for System Design Interviews](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare)
+- [A Senior Engineer's Guide to the System Design Interview: How To Prepare For a System Design Interview](https://interviewing.io/guides/system-design-interview)
 
 # Videos
 
