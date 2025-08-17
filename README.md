@@ -2,4 +2,11 @@
 
 A repository with a list of useful books, websites, videos, and articles for learning more about System Design.
 
+# Books
+
+# Websites
+
+# Articles
+
+# Videos
 
