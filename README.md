@@ -9,6 +9,8 @@ A repository with a list of useful books, websites, videos, and articles for lea
 # Websites, Guides, and Articles:
 - [How to Prepare for System Design Interviews](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare)
 - [A Senior Engineer's Guide to the System Design Interview: How To Prepare For a System Design Interview](https://interviewing.io/guides/system-design-interview)
+- [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 
-# Videos
+# Videos:
+- [Jordan has no life (YouTube Channel)](https://www.youtube.com/@jordanhasnolife5163)
 
