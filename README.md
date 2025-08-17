@@ -10,6 +10,7 @@ A repository with a list of useful resources for learning more about System Desi
 - [How to Prepare for System Design Interviews](https://www.hellointerview.com/learn/system-design/in-a-hurry/how-to-prepare)
 - [A Senior Engineer's Guide to the System Design Interview: How To Prepare For a System Design Interview](https://interviewing.io/guides/system-design-interview)
 - [System Design in a Hurry](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
+- [System Design Interview Guide: FAANG and Startups](https://www.tryexponent.com/blog/system-design-interview-guide)
 
 # Videos:
 - [Jordan has no life (YouTube Channel)](https://www.youtube.com/@jordanhasnolife5163)
